@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Dee 👋
 
-<!--
-**dee-winkler/dee-winkler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.S. Data Analytics (2025) 
+📡 20+ years in Broadcast Technology  
+🔄 Transitioning into Data Engineering  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Focus
+
+- ETL / ELT Pipeline Development
+- Apache Airflow (Docker-based orchestration)
+- PostgreSQL & SQL Optimization
+- Apache Spark (Databricks Community Edition)
+- Change Data Capture (Debezium + Kafka)
+- Python for Data Engineering
+- R for Statistical Modeling
+- Tableau Dashboard Development
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Stay Tuned for updates
+
+---
+
+## 📈 Career Goal
+
+Seeking Associate Data Engineer or Junior Data Engineer roles focused on building scalable data pipelines and analytics infrastructure.
+
+---
+
+📫 Connect with me on LinkedIn: www.linkedin.com/in/dwinkler2026
